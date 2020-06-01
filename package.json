@@ -1,0 +1,22 @@
+{
+    "name": "sodaflx",
+    "displayName": "sodaflx",
+    "description": "Customized Monokai Dark Soda",
+    "version": "0.0.1",
+    "publisher": "felixwieland",
+    "engines": {
+        "vscode": "^1.45.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "sodaflx",
+                "uiTheme": "vs-dark",
+                "path": "./themes/sodaflx-color-theme.json"
+            }
+        ]
+    }
+}
