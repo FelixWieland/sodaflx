@@ -71,7 +71,7 @@
 			"scope": "storage.type",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#66D9EF"
+				"foreground": "#66d8ee"
 			}
 		},
 		{
@@ -79,7 +79,7 @@
 			"scope": "entity.name.class",
 			"settings": {
 				"fontStyle": "underline",
-				"foreground": "#A6E22E"
+				"foreground": "#0fd589"
 			}
 		},
 		{
@@ -87,7 +87,7 @@
 			"scope": "entity.other.inherited-class",
 			"settings": {
 				"fontStyle": "italic underline",
-				"foreground": "#A6E22E"
+				"foreground": "#0fd589"
 			}
 		},
 		{
@@ -95,7 +95,7 @@
 			"scope": "entity.name.function",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#A6E22E"
+				"foreground": "#0fd589"
 			}
 		},
 		{
@@ -103,7 +103,7 @@
 			"scope": "variable.parameter",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FD971F"
+				"foreground": "#fd971e"
 			}
 		},
 		{
@@ -119,7 +119,7 @@
 			"scope": "entity.other.attribute-name",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#A6E22E"
+				"foreground": "#0fd589"
 			}
 		},
 		{
@@ -127,7 +127,7 @@
 			"scope": "support.function",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#66D9EF"
+				"foreground": "#66d8ee"
 			}
 		},
 		{
@@ -135,7 +135,7 @@
 			"scope": "support.constant",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#66D9EF"
+				"foreground": "#66d8ee"
 			}
 		},
 		{
@@ -146,7 +146,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#66D9EF"
+				"foreground": "#66d8ee"
 			}
 		},
 		{
@@ -319,7 +319,7 @@
 			"name": "diff: inserted",
 			"scope": "markup.inserted",
 			"settings": {
-				"foreground": "#60cf30"
+				"foreground": "#0fd589"
 			}
 		},
 		{
